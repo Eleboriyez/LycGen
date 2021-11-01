@@ -4,7 +4,7 @@
 
 * Группа: 10И2
 * Электронная почта: kobzev05-00@mail.ru
-* VK: https://vk.com/lord_elebor
+* VK: https://vk.com/archduke_elebor
 ---
 
 **[ Сценарий 1 - регистрация ]**
